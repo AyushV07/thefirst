@@ -1,2 +1,2 @@
 # thefirst
-a simple code
+print("Hello Ayush")
